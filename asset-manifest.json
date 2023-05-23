@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-portfolio/static/css/main.f2b19f41.css",
+    "main.js": "/simple-portfolio/static/js/main.995df1c4.js",
+    "static/media/mujer-fotografa.jpg": "/simple-portfolio/static/media/mujer-fotografa.5ea90722c09efc546d6d.jpg",
+    "static/media/messi-argentina-trans.png": "/simple-portfolio/static/media/messi-argentina-trans.f961b72c79d27b57fc6a.png",
+    "static/media/moon.svg": "/simple-portfolio/static/media/moon.0f9b2e9c3b663b4b4faab3bf4446ec82.svg",
+    "static/media/address-location-map-svgrepo-com.svg": "/simple-portfolio/static/media/address-location-map-svgrepo-com.5f757499e516c85880b453ad7ba30486.svg",
+    "static/media/phone.svg": "/simple-portfolio/static/media/phone.a4985272b28e5a3b8f3f45936fb5ed91.svg",
+    "static/media/sun.svg": "/simple-portfolio/static/media/sun.04a72ae949bab08e2f81e6f21f3ffdcb.svg",
+    "static/media/email-svgrepo-com.svg": "/simple-portfolio/static/media/email-svgrepo-com.28108a264de23d46d1ac0b7c543978a2.svg",
+    "index.html": "/simple-portfolio/index.html",
+    "main.f2b19f41.css.map": "/simple-portfolio/static/css/main.f2b19f41.css.map",
+    "main.995df1c4.js.map": "/simple-portfolio/static/js/main.995df1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b19f41.css",
+    "static/js/main.995df1c4.js"
+  ]
+}
